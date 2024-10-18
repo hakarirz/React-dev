@@ -73,7 +73,7 @@ export default function Game(){
   const moves = history.map((squares, move) => {
     let description;
     if(move > 0){
-      description = '당신은 '+move +'번째 순서에 있습니다...';
+      description = '당신은 '+move +'번째 순서에 있습니다...'; //react dev 1첫번째 추가 조건
     }else{
       description = 'Go to game start';
     }
