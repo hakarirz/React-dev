@@ -9,7 +9,7 @@ React 배포 방법
 2. React 프로젝트 생성 (npx create-react-app React-dev)
 3. gh-pages 패키지 설치 (터미널 -> npm install gh-pages --save-dev)
 4. package.json 파일 수정 (
-"homepage": "https://your-username.github.io/apps",
+"homepage": "https://your-username.github.io/apps",<br>
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
