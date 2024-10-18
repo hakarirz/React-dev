@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hakarirz/React-dev/static/css/main.3632d408.css",
-    "main.js": "/hakarirz/React-dev/static/js/main.2d872c63.js",
-    "static/js/453.4dffdef8.chunk.js": "/hakarirz/React-dev/static/js/453.4dffdef8.chunk.js",
-    "index.html": "/hakarirz/React-dev/index.html",
-    "main.3632d408.css.map": "/hakarirz/React-dev/static/css/main.3632d408.css.map",
-    "main.2d872c63.js.map": "/hakarirz/React-dev/static/js/main.2d872c63.js.map",
-    "453.4dffdef8.chunk.js.map": "/hakarirz/React-dev/static/js/453.4dffdef8.chunk.js.map"
+    "main.css": "/React-dev/static/css/main.3632d408.css",
+    "main.js": "/React-dev/static/js/main.8d39291a.js",
+    "static/js/453.4dffdef8.chunk.js": "/React-dev/static/js/453.4dffdef8.chunk.js",
+    "index.html": "/React-dev/index.html",
+    "main.3632d408.css.map": "/React-dev/static/css/main.3632d408.css.map",
+    "main.8d39291a.js.map": "/React-dev/static/js/main.8d39291a.js.map",
+    "453.4dffdef8.chunk.js.map": "/React-dev/static/js/453.4dffdef8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3632d408.css",
-    "static/js/main.2d872c63.js"
+    "static/js/main.8d39291a.js"
   ]
 }
