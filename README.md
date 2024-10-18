@@ -20,7 +20,7 @@ React 배포 방법 <br>
    git add . <br>
    git commit -m "커밋하고 남길 메세지" <br>
 6. 원격 저장소 추가 <br>
-   터미널 -> git remote add origin https://github.com/<your-username>/apps.git <br>
+   <&nbsp>터미널 -> git remote add origin https://github.com/<your-username>/apps.git <br>
    git branch -M main <br>
    git push -u origin main <br>
 7. 배포 (터미널 -> npm run deploy)
