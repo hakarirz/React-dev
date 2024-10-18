@@ -2,7 +2,8 @@ React 초기 설정 <br>
 1. 작업 폴더 생성 (이름은 아무거나(React) <br><br>
 2. 폴더 우클릭 후 터미널 실행 (관리자 X) <br><br>
 3. Git 사용자 정보 설정 입력 <br><br>
-git config --global user.name "이름" / git config --global user.email "이름@gmail.com" <br><br>
+git config --global user.name "이름" <br>
+git config --global user.email "이름@gmail.com" <br><br>
 4. React 앱 생성 <br><br>
 npx create-react-app my-app / npm create-react-app 프로젝트명 (npx,npm 차이가 npx가 매번 최신 버전) <br><br>
 
@@ -20,9 +21,9 @@ React 배포 방법 <br><br>
 5. Git 초기화 및 커밋 <br><br>
    git init <br>
    git add . <br>
-   git commit -m "커밋하고 남길 메세지" <br>
+   git commit -m "커밋하고 남길 메세지" <br><br>
 6. 원격 저장소 추가 <br>
      터미널 -> git remote add origin https://github.com/<your-username>/apps.git <br>
    git branch -M main <br>
-   git push -u origin main <br>
+   git push -u origin main <br><br>
 7. 배포 (터미널 -> npm run deploy)
